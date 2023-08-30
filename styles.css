@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.home-page-heading {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
