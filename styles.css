@@ -11,11 +11,11 @@ a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.lasagna-heading {
+.recipe-heading {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.desc, .ingredients, .steps {
+.desc-h, .ingredients, .steps {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -27,7 +27,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul, ol {
+.recipe-ul, ol {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
 }
