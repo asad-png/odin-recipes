@@ -10,3 +10,28 @@ body {
 a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.lasagna-heading {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.desc, .ingredients, .steps {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients, .steps {
+    font-style: italic;
+}
+
+.desc-p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+ol {
+    color: green;
+}
