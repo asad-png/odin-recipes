@@ -27,7 +27,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.recipe-ul, ol {
+.ingredients-ul, ol {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
 }
