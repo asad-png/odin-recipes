@@ -23,11 +23,15 @@ body {
 
 .home-page-heading {
     font-family: 'Courier New', Courier, monospace;
-    /* text-align: center; */
+    text-align: center;
 }
 
 a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 1.2rem;
+    text-decoration: none;
 }
 
 .recipe-heading {
@@ -79,3 +83,12 @@ img {
     display: inline-block;
 }
 
+nav {
+    text-align: center;
+    background-color: purple;
+    padding: 5px 0;
+}
+
+a:visited {
+    color: black;
+}
